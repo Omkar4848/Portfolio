@@ -125,7 +125,7 @@ const expCards = [
 
 const techStackIcons = [
   {
-    name: "Frontend Developer (React)",
+    name: "Frontend Developer",
     modelPath: "/models/react_logo-transformed.glb",
     scale: 1,
     rotation: [0, 0, 0],
@@ -138,13 +138,13 @@ const techStackIcons = [
     rotation: [0, -Math.PI / 2, 0],
   },
   {
-    name: "Interactive Developer (ThreeJS)",
+    name: "Interactive Developer",
     modelPath: "/models/three.js-transformed.glb",
     scale: 0.05,
     rotation: [0, 0, 0],
   },
   {
-    name: "Project Manager (Git,Github)",
+    name: "Project Manager",
     modelPath: "/models/git-svg-transformed.glb",
     scale: 0.05,
     rotation: [0, -Math.PI / 4, 0],
