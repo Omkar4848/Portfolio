@@ -150,6 +150,24 @@ const techStackIcons = [
     rotation: [0, -Math.PI / 4, 0],
   },
 ];
+const socialImgs = [
+  {
+    name: "insta",
+    imgPath: "/images/insta.png",
+  },
+  {
+    name: "fb",
+    imgPath: "/images/fb.png",
+  },
+  {
+    name: "x",
+    imgPath: "/images/x.png",
+  },
+  {
+    name: "linkedin",
+    imgPath: "/images/linkedin.png",
+  },
+];
 
 export {
   words,
@@ -159,4 +177,5 @@ export {
   abilities,
   expCards,
   techStackIcons,
+  socialImgs,
 };
